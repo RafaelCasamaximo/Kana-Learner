@@ -64,6 +64,7 @@ const App = () => {
                     <input className={inputAnswer} type="text" onChange={(e) => check(e.target.value)} value={term} />
                 </form>
                 <Score inputAnswer={inputAnswer} score={score} maxScore={maxScore} />
+                <a className="dev" href="https://github.com/RafaelCasamaximo" target="_blank"><b>Rafael Furlanetto Casamaximo</b></a>
             </div>
         </>
     )

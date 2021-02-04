@@ -26,3 +26,8 @@
     border-color: red !important;
     transition: border-color 0.5s ease;
 }
+
+.dev{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #F8ADD1;
+}
