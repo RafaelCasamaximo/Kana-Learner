@@ -1,0 +1,23 @@
+.score{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.score p{
+    color: #F8ADD1;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    transition: color 0.5s ease;
+}
+
+.right p{
+    color: green !important;
+    transition: color 0.5s ease;
+}
+
+.wrong p{
+    color: red !important;
+    transition: color 0.5s ease;
+}
